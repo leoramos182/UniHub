@@ -4,6 +4,6 @@ O UniHub é um projeto inovador cujo objetivo é unir universitários de diverso
 para a realização de projetos acadêmicos.
 
 # Tecnologias aplicadas no projeto
-HTML5 - 
-CSS -
-JAVASCRIPT - 
+# HTML5  
+# CSS
+# JAVASCRIPT
